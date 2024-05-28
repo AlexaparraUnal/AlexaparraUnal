@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola Soy alexandra parra Wed development , Desarolladora backend, me encuentro aprendiendo en laboratoria  HTML | CSS | Java Script| SCRUM | GitHub
+Hola Soy alexandra parra Wed development , Desarolladora backend, me encuentro en formacion de un bootcamp en  laboratoria donde adquiero habilidades en  HTML | CSS | Java Script| SCRUM | GitHub
 
 
 ## 🌐 Socials:
